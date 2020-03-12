@@ -1,4 +1,4 @@
-# ga_segmentation
+# GA Segmentation
 Multi-objective evaluation algorithm (MOEA) for color image segementation
 
 NSGA-II: Understand how it works:
